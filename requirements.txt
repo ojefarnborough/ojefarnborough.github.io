@@ -1,0 +1,17 @@
+"External style sheet correctly linked to from the single page site and including FOUR OR MORE of the following properties:  
+background-color
+border-color
+border-style done
+border-width done(kinda)
+color with named and hex colours
+font-family
+font-size
+height
+width"
+
+"The web page includes the following HTML tags:
+<title>
+<h1>  or h2, h3 etc
+<img> including the src, alt, height and width attributes
+<p> 
+<div> "
